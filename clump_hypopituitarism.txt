@@ -1,0 +1,12 @@
+pos.exposure	other_allele.exposure	effect_allele.exposure	SNP	pval.exposure	beta.exposure	se.exposure	exposure	mr_keep.exposure	pval_origin.exposure	id.exposure	eaf.exposure	data_source.exposure	samplesize.exposure
+85916994	C	T	rs140304204	2.49827e-06	-0.65033	0.138125	exposure	TRUE	reported	4OZV3Y	NA	textfile	397403
+139807234	T	C	rs35998985	2.40747e-06	0.179823	0.0381319	exposure	TRUE	reported	4OZV3Y	NA	textfile	397403
+182669916	G	A	rs13000722	3.01801e-06	0.149242	0.0319605	exposure	TRUE	reported	4OZV3Y	NA	textfile	397403
+115279681	G	T	rs113900529	1.45388e-06	-0.710803	0.147547	exposure	TRUE	reported	4OZV3Y	NA	textfile	397403
+22986609	A	G	rs73249020	2.17395e-07	-0.331856	0.0640177	exposure	TRUE	reported	4OZV3Y	NA	textfile	397403
+96573156	C	T	rs150144784	4.70121e-06	-0.600228	0.13112	exposure	TRUE	reported	4OZV3Y	NA	textfile	397403
+124367402	C	T	rs11244571	3.62101e-06	-0.149879	0.032357	exposure	TRUE	reported	4OZV3Y	NA	textfile	397403
+73663243	T	C	rs7932364	3.96579e-06	-0.488221	0.105832	exposure	TRUE	reported	4OZV3Y	NA	textfile	397403
+56771996	T	C	rs198234	1.56812e-06	-0.151622	0.0315724	exposure	TRUE	reported	4OZV3Y	NA	textfile	397403
+7548761	G	A	rs77294902	1.40223e-06	0.166505	0.034511	exposure	TRUE	reported	4OZV3Y	NA	textfile	397403
+7676483	G	C	rs1642785	2.88955e-06	-0.157667	0.0337003	exposure	TRUE	reported	4OZV3Y	NA	textfile	397403
